@@ -1,0 +1,5 @@
+# Qt-es
+*.pro.user
+*.pro.user.*
+*-build-*
+build-*
